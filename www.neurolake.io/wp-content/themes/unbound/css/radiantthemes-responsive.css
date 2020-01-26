@@ -1,0 +1,42 @@
+﻿
+@media screen and (min-width:1200px) {}
+@media screen and (min-width:992px) and (max-width:1199px) {}
+@media screen and (min-width:768px) and (max-width:991px) {.radiantthemes-shop.three-column > .radiantthemes-shop-box, .radiantthemes-shop.four-column > .radiantthemes-shop-box, .radiantthemes-shop.five-column > .radiantthemes-shop-box, .radiantthemes-shop.six-column > .radiantthemes-shop-box {width: 33.33%;}
+	.radiantthemes-event-list-item > .row {display: block;}
+	.radiantthemes-event-list-item-pic, .radiantthemes-event-list-item-data, .radiantthemes-event-list-item-button {max-width: initial;}
+	.radiantthemes-event-list-item-pic {position: static;background-image: initial;}}
+@media screen and (min-width:480px) and (max-width:767px) {.gdpr-notice > .row {display: block;}
+	.gdpr-notice .btn {margin-top: 25px;}
+	.order-first, .order-second {order: initial;}
+	.comments-area ol.comment-list li ol {padding-left: 20px;}
+	.radiantthemes-shop.three-column > .radiantthemes-shop-box, .radiantthemes-shop.four-column > .radiantthemes-shop-box, .radiantthemes-shop.five-column > .radiantthemes-shop-box, .radiantthemes-shop.six-column > .radiantthemes-shop-box {width: 50%;}
+	.woocommerce input.input-text[name=coupon_code] {width: 50% !important;}
+	.radiantthemes-event-list-item > .row {display: block;}
+	.radiantthemes-event-list-item-pic, .radiantthemes-event-list-item-data, .radiantthemes-event-list-item-button {max-width: initial;}
+	.radiantthemes-event-list-item-pic {position: static;background-image: initial;}}
+@media screen and (min-width:321px) and (max-width:479px) {.gdpr-notice > .row {display: block;}
+	.gdpr-notice .btn {margin-top: 25px;}
+	.gallery-item, .gallery-columns-1 .gallery-item, .gallery-columns-2 .gallery-item, .gallery-columns-3 .gallery-item, .gallery-columns-4 .gallery-item {width: 100%;max-width: initial;}
+	.order-first, .order-second {order: initial;}
+	.comments-area ol.comment-list li ol {padding-left: 0;}
+	.woocommerce .woocommerce-products-header, .woocommerce .woocommerce-result-count, .woocommerce .woocommerce-ordering {width: 100%;text-align: center;}
+	.radiantthemes-shop.three-column > .radiantthemes-shop-box, .radiantthemes-shop.four-column > .radiantthemes-shop-box, .radiantthemes-shop.five-column > .radiantthemes-shop-box, .radiantthemes-shop.six-column > .radiantthemes-shop-box {width: 100%;}
+	.woocommerce input.input-text[name=coupon_code] {width: 100% !important;margin: 0px 0px 7px 0px !important;}
+	.woocommerce input.button[name=apply_coupon] {width: 100% !important;}
+	.woocommerce form #customer_details, .woocommerce form #order_review_heading, .woocommerce form #order_review {width: 100%;}
+	.radiantthemes-event-list-item > .row {display: block;}
+	.radiantthemes-event-list-item-pic, .radiantthemes-event-list-item-data, .radiantthemes-event-list-item-button {max-width: initial;}
+	.radiantthemes-event-list-item-pic {position: static;background-image: initial;}}
+@media screen and (max-width:320px) {.gdpr-notice > .row {display: block;}
+	.gdpr-notice .btn {margin-top: 25px;}
+	.gallery-item, .gallery-columns-1 .gallery-item, .gallery-columns-2 .gallery-item, .gallery-columns-3 .gallery-item, .gallery-columns-4 .gallery-item {width: 100%;max-width: initial;}
+	.order-first, .order-second {order: initial;}
+	.comments-area ol.comment-list li ol {padding-left: 0;}
+	.woocommerce .woocommerce-products-header, .woocommerce .woocommerce-result-count, .woocommerce .woocommerce-ordering {width: 100%;text-align: center;}
+	.radiantthemes-shop.three-column > .radiantthemes-shop-box, .radiantthemes-shop.four-column > .radiantthemes-shop-box, .radiantthemes-shop.five-column > .radiantthemes-shop-box, .radiantthemes-shop.six-column > .radiantthemes-shop-box {width: 100%;}
+	.woocommerce input.input-text[name=coupon_code] {width: 100% !important;margin: 0px 0px 7px 0px !important;}
+	.woocommerce input.button[name=apply_coupon] {width: 100% !important;}
+	.woocommerce form #customer_details, .woocommerce form #order_review_heading, .woocommerce form #order_review {width: 100%;}
+	.radiantthemes-event-list-item > .row {display: block;}
+	.radiantthemes-event-list-item-pic, .radiantthemes-event-list-item-data, .radiantthemes-event-list-item-button {max-width: initial;}
+	.radiantthemes-event-list-item-pic {position: static;background-image: initial;}}
